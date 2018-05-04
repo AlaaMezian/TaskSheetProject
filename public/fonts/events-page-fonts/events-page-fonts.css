@@ -1,0 +1,65 @@
+@font-face {
+    font-family: 'cloudview-dw';
+    src:    url('../fonts/cloudview-icons-dw/cloudview-dw.eot?uoalbq');
+    src:    url('../fonts/cloudview-icons-dw/cloudview-dw.eot?uoalbq#iefix') format('embedded-opentype'),
+        url('../fonts/cloudview-icons-dw/cloudview-dw.ttf?uoalbq') format('truetype'),
+        url('../fonts/cloudview-icons-dw/cloudview-dw.woff?uoalbq') format('woff'),
+        url('../fonts/cloudview-icons-dw/cloudview-dw.svg?uoalbq#cloudview-dw') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="cv-icon-dw-"], [class*=" cv-icon-dw-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'cloudview-dw' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.cv-icon-dw-cliplength:before {
+    content: "\e90a";
+}
+.cv-icon-dw-retrievedfolder:before {
+    content: "\e90b";
+}
+.cv-icon-dw-tag:before {
+    content: "\e90c";
+}
+.cv-icon-dw-close:before {
+    content: "\e900";
+}
+.cv-icon-dw-collapse:before {
+    content: "\e901";
+}
+.cv-icon-dw-desktop:before {
+    content: "\e902";
+}
+.cv-icon-dw-info:before {
+    content: "\e903";
+}
+.cv-icon-dw-location:before {
+    content: "\e904";
+}
+.cv-icon-dw-mediatype:before {
+    content: "\e905";
+}
+.cv-icon-dw-mobile:before {
+    content: "\e906";
+}
+.cv-icon-dw-notifications:before {
+    content: "\e907";
+}
+.cv-icon-dw-popup:before {
+    content: "\e908";
+}
+.cv-icon-dw-trigger:before {
+    content: "\e909";
+}

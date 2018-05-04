@@ -1,0 +1,41 @@
+{
+  "name": "tasksheetproject",
+  "version": "1.0.0",
+  "description": "this is the back end depedancies ",
+  "main": "app.js",
+  "scripts": {
+    "start": "DEBUG=index node ./ ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ala'a Mezian",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.18.2",
+    "compression": "1.7.1",
+    "connect-flash": "0.1.1",
+    "cookie-parser": "1.4.3",
+    "debug": "3.1.0",
+    "ejs": "2.5.7",
+    "errorhandler": "1.5.0",
+    "express": "4.16.2",
+    "express-session": "1.15.6",
+    "jsonwebtoken": "8.1.0",
+    "method-override": "2.3.10",
+    "morgan": "1.9.0",
+    "mysql2": "1.5.1",
+    "nodeman": "1.1.2",
+    "passport": "0.4.0",
+    "passport-local": "1.0.0",
+    "sequelize": "4.28.6",
+    "serve-favicon": "2.4.5",
+    "serve-static": "1.13.1",
+    "validator": "9.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "6.26.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-es2015": "6.24.1",
+    "babel-register": "6.26.0"
+  }
+}
