@@ -1,5 +1,3 @@
-`. You can now safely use the boilerplate with an alternative build-system or no build-system at all if you choose.
-/# to use the system 
-//1) you ahve to run npm install  
-//2) you have to run bowert install 
-//3) finally run npm start
+# Task Sheet Project
+a repository contain a crud example on a task sheet application where users can manage there task and admins can assign task 
+this repository is built using node js and express frame work to provide back end api's for the concept.
